@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apizhangjszs=anuraghazra&show_icons=true)
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=zhangjszs" />
 <!--
 **zhangjszs/zhangjszs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

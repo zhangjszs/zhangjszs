@@ -11,7 +11,7 @@
 - 🔭 I’m currently working on HUAT_FSAC
 - 🌱 I’m currently learning ROS CPP JAVA 
 - 🏫 Undergraduate in China
-- (Major **Computer Science and Technology**)
+- ⚛️  Majior Computer Science and Technology
   
 
 <p align="center">

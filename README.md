@@ -12,16 +12,17 @@ Passionate about coding and creating interactive products that are both function
   </samp>
 </p>
 
-
 - 🔭 I’m currently working on HUAT_FSAC
 - 🌱 I’m currently learning ROS CPP JAVA 
 - 🏫 Undergraduate in China
 - 📫 How to reach me: zhangjszs@foxmail.com
-  
+- ![tip](https://badgen.net/badge/python/3.11&3.8/green?icon=python) ![tip](https://badgen.net/badge/c++/20/green?icon=c++) ![tip](https://badgen.net/badge/ROS/18.04/green?icon=ROS)
+
 
 <p align="center">
   <samp>
     <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="28px">
   </samp>
 </p>
+
 

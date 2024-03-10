@@ -1,5 +1,5 @@
 # Hi, I'm Kerwin Zhang :wave:
-#  Basic Information
+#  Information
 Computer science student and aspiring autonomous driving engineer with a focus on robot operating system (ROS) and deep learning.
 Interested in path planning, control algorithms and perception models that can enable safe and smooth self-driving experiences.
 Hope to continuously learn and improve skills in motion control, computer vision, sensor fusion, and contribute to building the self-driving technology of the future.

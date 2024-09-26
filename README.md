@@ -21,7 +21,7 @@ Passionate about coding and creating interactive products that are both function
 - 🌱 I’m currently learning ROS CPP JAVA 
 - 🏫 Undergraduate in China
 - 📫 How to reach me: zhangjszs@foxmail.com
-- ![tip](https://badgen.net/badge/python/3.11&3.8/green?icon=python) ![tip](https://badgen.net/badge/c++/20/green?icon=c++) ![tip](https://badgen.net/badge/ubantu/18.04/green?icon=ubantu) ![tip](https://badgen.net/badge/Java/17.0.8/green?icon=Java) ![tip](https://badgen.net/badge/Ros/Melodic/green?icon=Ros)
+- ![tip](https://badgen.net/badge/python/3.12&3.8/green?icon=python) ![tip](https://badgen.net/badge/c++/20/green?icon=c++) ![tip](https://badgen.net/badge/ubantu/18.04&22.04/green?icon=ubantu) ![tip](https://badgen.net/badge/Java/17.0.8/green?icon=Java) ![tip](https://badgen.net/badge/Ros/Melodic&Jazzy/green?icon=Ros)
 
 
 

@@ -8,68 +8,62 @@
   </p>
 
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2334F7&center=true&vCenter=true&width=435&lines=Focus+on+Robot+Operating+System;Building+Self-driving+Technology;Perception+%26+Planning+Algorithm" alt="Typing SVG" /></a>
-</div>
 
-<br>
+  <br><br>
 
-### 👨‍💻 About Me
-
-- 🏎️ **Current Project:** Core member of [**FSAC Team of HUAT**](https://github.com/HUAT-FSAC) (Formula Student Autonomous China).
-- 🛠️ **Research:** Focus on **LiDAR Ground Segmentation** and autonomous racing algorithms.
-- 🌱 **Learning:** Deepening knowledge in **ROS (Melodic/Jazzy)**, **C++20**, and **CUDA**.
-- 🎓 **Education:** Undergraduate CS Student at Hubei University of Automotive Technology.
-- 💬 **Contact:** [zhangjszs@foxmail.com](mailto:zhangjszs@foxmail.com)
-
-<br>
-
-### 🛠️ Tech Stack & Tools
-
-#### 🤖 Robotics & Programming
-<p>
-  <img src="https://img.shields.io/badge/C++-20-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3.12-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/ROS-Jazzy%20%26%20Melodic-22314E?style=for-the-badge&logo=ros&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ubuntu-22.04%20LTS-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
-</p>
-
-#### 🧠 AI & Engineering
-<p>
-  <img src="https://img.shields.io/badge/CUDA-NVIDIA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-</p>
-
-<br>
-
-### 📊 GitHub Activity & Stats
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zhangjszs&theme=tokyonight&hide_border=true" height="180px" />
+  ### 👨‍💻 About Me
   
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-used-languages?username=zhangjszs&theme=tokyonight" height="180px" />
-</div>
+  🏎️ **Current Project:** Core member of [**FSAC Team of HUAT**](https://github.com/HUAT-FSAC)
+  🛠️ **Research:** Focus on **LiDAR Ground Segmentation** and autonomous racing algorithms
+  🌱 **Learning:** Deepening knowledge in **ROS (Melodic/Jazzy)**, **C++20**, and **CUDA**
+  🎓 **Education:** Undergraduate CS Student at Hubei University of Automotive Technology
+  💬 **Contact:** [zhangjszs@foxmail.com](mailto:zhangjszs@foxmail.com)
 
-<br>
+  <br>
 
-<div align="center">
+  ### 🛠️ Tech Stack & Tools
+
+  #### 🤖 Robotics & Programming
+  <p>
+    <img src="https://img.shields.io/badge/C++-20-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+    <img src="https://img.shields.io/badge/Python-3.12-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/ROS-Jazzy%20%26%20Melodic-22314E?style=for-the-badge&logo=ros&logoColor=white" />
+    <img src="https://img.shields.io/badge/Ubuntu-22.04%20LTS-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+  </p>
+
+  #### 🧠 AI & Engineering
+  <p>
+    <img src="https://img.shields.io/badge/CUDA-NVIDIA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
+    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  </p>
+
+  <br>
+
+  ### 📊 GitHub Activity & Stats
+
+  <p>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=zhangjszs&theme=tokyonight&hide_border=true" height="180px" />
+    <img src="https://github-readme-stats-one-bice.vercel.app/api?username=zhangjszs&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180px" />
+  </p>
+  
+  <p>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-used-languages?username=zhangjszs&theme=tokyonight" height="180px" />
+  </p>
+
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zhangjszs&theme=tokyonight" width="100%" />
-</div>
 
-<br>
+  <br>
 
-### 🔗 Connect with Me
+  ### 🔗 Connect with Me
 
-<div align="center">
+  | **CSDN** | **CNBlogs** | **Email** |
+  | :---: | :---: | :---: |
+  | [![CSDN](https://img.shields.io/badge/CSDN-Blog-C92027?style=flat-square&logo=csdn&logoColor=white)](https://blog.csdn.net/zcw_jszs) | [![CNBlogs](https://img.shields.io/badge/CNBlogs-Portfolio-1E90FF?style=flat-square)](https://www.cnblogs.com/jszs0013/) | [![Email](https://img.shields.io/badge/Email-Send-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:zhangjszs@foxmail.com) |
 
-| **CSDN** | **CNBlogs** | **Email** |
-| :---: | :---: | :---: |
-| [![CSDN](https://img.shields.io/badge/CSDN-Blog-C92027?style=for-the-badge&logo=csdn&logoColor=white)](https://blog.csdn.net/zcw_jszs) | [![CNBlogs](https://img.shields.io/badge/CNBlogs-Portfolio-1E90FF?style=for-the-badge)](https://www.cnblogs.com/jszs0013/) | [![Email](https://img.shields.io/badge/Email-Send-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zhangjszs@foxmail.com) |
+  <br>
 
-</div>
-
-<br>
-
-<p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake" />
-</p>
+
+</div>

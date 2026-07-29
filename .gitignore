@@ -1,0 +1,17 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Editors
+.idea/
+.vscode/
+*.swp
+
+# AI tools
+.claude/
+.omc/
+.trae/
+.mimocode/
+
+# Logs
+*.log

@@ -1,88 +1,103 @@
-<h1 align="center">Hi, I'm Kerwin Zhang 👋</h1>
+<div align="center">
+  <h1>Hi there, I'm Kerwin Zhang 👋</h1>
+  <h3>🚗 Autonomous Driving & Robotics Engineer</h3>
+  <p><strong>Perception · Localization · Path Planning · Real-time Systems</strong></p>
 
-<p align="center">
-  <strong>Autonomous Driving · Robotics · Perception · Planning</strong><br/>
-  <sub>C++20 · Python · ROS 2 · LiDAR · CUDA</sub>
-</p>
+  <p>
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=2334F7&center=true&vCenter=true&width=600&lines=Building+Autonomous+Driving+Systems;Focus+on+LiDAR+Perception+%26+Localization;ROS+2+%C2%B7+Modern+C%2B%2B+%C2%B7+CUDA+Acceleration;From+Algorithms+to+Real-world+Robots" alt="Typing SVG" />
+    </a>
+  </p>
+
+  <p>
+    <a href="https://github.com/zhangjszs"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+    <a href="https://blog.csdn.net/zcw_jszs"><img src="https://img.shields.io/badge/CSDN-Blog-C92027?style=flat-square&logo=csdn&logoColor=white" alt="CSDN" /></a>
+    <a href="https://www.cnblogs.com/jszs0013/"><img src="https://img.shields.io/badge/CNBlogs-Portfolio-1E90FF?style=flat-square" alt="CNBlogs" /></a>
+    <a href="mailto:zhangjszs@foxmail.com"><img src="https://img.shields.io/badge/Email-zhangjszs%40foxmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  </p>
+</div>
 
 ---
 
 ## 👨‍💻 About Me
 
-I build autonomous driving systems — from LiDAR perception and localization to path planning and real-time control. My focus is turning algorithms into **reliable, real-time systems that run on actual robots and race cars**.
+I am a Computer Science graduate focused on **Autonomous Driving and Robotics**, specializing in turning perception, localization, and planning algorithms into **reliable, real-time systems on actual vehicles and robots**.
 
-- 🎓 **B.S. Computer Science** — Hubei University of Automotive Technology
-- 🏎️ **Core Member** — [FSAC Team of HUAT](https://github.com/HUAT-FSAC)
-
----
-
-## 🚗 Current Focus
-
-| Area | Key Topics |
-|------|------------|
-| **LiDAR Perception** | Ground segmentation · RANSAC plane fitting · Cone detection & clustering |
-| **Localization** | EKF · Sensor fusion · Cone-map matching · KD-tree search |
-| **Planning & Control** | Path planning · Trajectory generation · Vehicle control |
-| **Systems** | ROS 2 integration · Real-time optimization · CUDA acceleration |
+- 🎓 **Education:** B.Eng. in Computer Science, **Hubei University of Automotive Technology (HUAT)**
+- 🏎️ **Racing Experience:** Former Core Member of **[HUAT FSAC Team](https://github.com/HUAT-FSAC)** (Formula Student Autonomous China)
+- 🛠️ **Core Focus:** LiDAR Perception, Multi-Sensor Fusion Localization, Path Planning & System Integration
+- ⚡ **Engineering:** Modern C++ (C++20), ROS / ROS 2 (Noetic & Jazzy), CUDA & Real-time Optimization
+- 📫 **Contact:** [zhangjszs@foxmail.com](mailto:zhangjszs@foxmail.com)
 
 ---
 
-## 🛠️ Tech Stack
+## 🔬 System Architecture & Focus Areas
 
+- 🚗 **Autonomous Racing Pipeline:** Full-stack integration across `Perception → Localization → Planning → Control`
+- 🌍 **LiDAR Ground Segmentation:** RANSAC plane fitting, region-wise modeling, real-time optimization & robustness in cluttered environments
+- 🟠 **Cone Detection & Clustering:** Euclidean clustering, shape/size spatial validation & false-positive suppression
+- 🧭 **Localization & State Estimation:** EKF multi-sensor fusion, cone-map matching with KD-tree nearest-neighbor search & high-speed pose stability
+- 🧪 **Engineering & Tooling:** ROS 1 / ROS 2 architecture, profiling, parameter management & reproducible experiments with `rosbag`
+
+```text
+Autonomous Driving
+       │
+       ├── Perception
+       │     ├── LiDAR Preprocessing
+       │     ├── Ground Segmentation (RANSAC / Region-wise)
+       │     └── Object & Cone Detection (Clustering)
+       │
+       ├── Localization
+       │     ├── EKF Sensor Fusion
+       │     └── Map Matching (KD-tree)
+       │
+       ├── Planning & Control
+       │     ├── Path Planning
+       │     └── Trajectory Generation & Vehicle Control
+       │
+       └── Systems & Engineering
+             ├── ROS 2 (Jazzy) & ROS 1 (Noetic)
+             ├── CUDA & Real-time Optimization
+             └── Profiling & Reproducible Experiments
+```
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+### 💻 Languages & Core Libraries
 <p>
   <img src="https://img.shields.io/badge/C%2B%2B-20-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++20" />
-  <img src="https://img.shields.io/badge/Python-3.12-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/ROS_2-Jazzy-22314E?style=for-the-badge&logo=ros&logoColor=white" alt="ROS 2" />
+  <img src="https://img.shields.io/badge/Python-3.12-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python 3.12" />
   <img src="https://img.shields.io/badge/CUDA-NVIDIA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="CUDA" />
+  <img src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white" alt="CMake" />
+</p>
+
+### 🤖 Robotics, AI & Infrastructure
+<p>
+  <img src="https://img.shields.io/badge/ROS_2-Jazzy-22314E?style=for-the-badge&logo=ros&logoColor=white" alt="ROS 2 Jazzy" />
+  <img src="https://img.shields.io/badge/ROS-Noetic-22314E?style=for-the-badge&logo=ros&logoColor=white" alt="ROS Noetic" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/Ubuntu-22.04%20LTS-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu 22.04" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img
-    src="https://github-readme-stats-one-bice.vercel.app/api?username=zhangjszs&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
-    height="170"
-    alt="GitHub Stats"
-  />
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=zhangjszs&theme=tokyonight&hide_border=true"
-    height="170"
-    alt="GitHub Streak"
-  />
-</p>
-
----
-
-## 🔗 Contact
+| Streak | Stats | Languages |
+| :---: | :---: | :---: |
+| <img src="https://github-readme-streak-stats.herokuapp.com/?user=zhangjszs&theme=tokyonight&hide_border=true" height="170" alt="Streak" /> | <img src="https://github-readme-stats-one-bice.vercel.app/api?username=zhangjszs&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" alt="Stats" /> | <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zhangjszs&theme=tokyonight" height="170" alt="Languages" /> |
 
 <p align="center">
-  <a href="https://github.com/zhangjszs">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://blog.csdn.net/zcw_jszs">
-    <img src="https://img.shields.io/badge/CSDN-Blog-C92027?style=flat-square&logo=csdn&logoColor=white" alt="CSDN" />
-  </a>
-  <a href="https://www.cnblogs.com/jszs0013/">
-    <img src="https://img.shields.io/badge/CNBlogs-Blog-1E90FF?style=flat-square" alt="CNBlogs" />
-  </a>
-  <a href="mailto:zhangjszs@foxmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zhangjszs&theme=tokyonight" width="100%" alt="GitHub Profile Details" />
 </p>
-
 ---
 
 <p align="center">
-  <img
-    src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"
-    alt="GitHub Contribution Snake"
-  />
-</p>
-
-<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
+  <br/>
   <sub>Building systems, learning deeply, and turning ideas into robots.</sub>
 </p>

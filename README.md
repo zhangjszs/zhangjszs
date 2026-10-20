@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Hi there, I'm Kerwin Zhang 👋</h1>
-  <h3>🚗 Autonomous Driving & Robotics Engineer</h3>
-  <p><strong>Perception · Localization · Path Planning · Real-time Systems</strong></p>
+  <p><strong>🚗 Autonomous Driving & Robotics Engineer</strong></p>
+  <p><em>Perception · Localization · Path Planning · Real-time Systems</em></p>
 
   <p>
     <a href="https://git.io/typing-svg">
@@ -21,23 +21,19 @@
 
 ## 👨‍💻 About Me
 
-I am a Computer Science graduate focused on **Autonomous Driving and Robotics**, specializing in turning perception, localization, and planning algorithms into **reliable, real-time systems on actual vehicles and robots**.
+Computer Science graduate focused on **Autonomous Driving and Robotics** — turning perception, localization, and planning algorithms into **reliable, real-time systems** on actual vehicles and robots.
 
-- 🎓 **Education:** B.Eng. in Computer Science, **Hubei University of Automotive Technology (HUAT)**
-- 🏎️ **Racing Experience:** Former Core Member of **[HUAT FSAC Team](https://github.com/HUAT-FSAC)** (Formula Student Autonomous China)
-- 🛠️ **Core Focus:** LiDAR Perception, Multi-Sensor Fusion Localization, Path Planning & System Integration
-- ⚡ **Engineering:** Modern C++ (C++20), ROS / ROS 2 (Noetic & Jazzy), CUDA & Real-time Optimization
-- 📫 **Contact:** [zhangjszs@foxmail.com](mailto:zhangjszs@foxmail.com)
+| | |
+| :--- | :--- |
+| 🎓 **Education** | B.Eng. in Computer Science, **Hubei University of Automotive Technology (HUAT)** |
+| 🏎️ **Racing** | Former Core Member of **[HUAT FSAC Team](https://github.com/HUAT-FSAC)** (Formula Student Autonomous China) |
+| 🎯 **Focus** | LiDAR Perception · Multi-Sensor Fusion Localization · Path Planning |
+| ⚡ **Engineering** | Modern C++ (C++20) · ROS / ROS 2 (Noetic & Jazzy) · CUDA · Real-time Optimization |
+| 📫 **Contact** | [zhangjszs@foxmail.com](mailto:zhangjszs@foxmail.com) |
 
 ---
 
-## 🔬 System Architecture & Focus Areas
-
-- 🚗 **Autonomous Racing Pipeline:** Full-stack integration across `Perception → Localization → Planning → Control`
-- 🌍 **LiDAR Ground Segmentation:** RANSAC plane fitting, region-wise modeling, real-time optimization & robustness in cluttered environments
-- 🟠 **Cone Detection & Clustering:** Euclidean clustering, shape/size spatial validation & false-positive suppression
-- 🧭 **Localization & State Estimation:** EKF multi-sensor fusion, cone-map matching with KD-tree nearest-neighbor search & high-speed pose stability
-- 🧪 **Engineering & Tooling:** ROS 1 / ROS 2 architecture, profiling, parameter management & reproducible experiments with `rosbag`
+## 🔬 What I Build
 
 ```text
 Autonomous Driving
@@ -61,11 +57,20 @@ Autonomous Driving
              └── Profiling & Reproducible Experiments
 ```
 
+**Highlights**
+
+- 🚗 **Autonomous Racing Pipeline** — Full-stack integration across `Perception → Localization → Planning → Control`
+- 🌍 **LiDAR Ground Segmentation** — RANSAC plane fitting, region-wise modeling, and robustness in cluttered environments
+- 🟠 **Cone Detection & Clustering** — Euclidean clustering, shape/size spatial validation, and false-positive suppression
+- 🧭 **Localization & State Estimation** — EKF multi-sensor fusion, KD-tree map matching, and high-speed pose stability
+- 🧪 **Engineering & Tooling** — ROS 1 / ROS 2 architecture, profiling, and reproducible experiments with `rosbag`
+
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🛠️ Tech Stack
 
-### 💻 Languages & Core Libraries
+**Languages & Core Libraries**
+
 <p>
   <img src="https://img.shields.io/badge/C%2B%2B-20-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++20" />
   <img src="https://img.shields.io/badge/Python-3.12-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python 3.12" />
@@ -73,7 +78,8 @@ Autonomous Driving
   <img src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white" alt="CMake" />
 </p>
 
-### 🤖 Robotics, AI & Infrastructure
+**Robotics, AI & Infrastructure**
+
 <p>
   <img src="https://img.shields.io/badge/ROS_2-Jazzy-22314E?style=for-the-badge&logo=ros&logoColor=white" alt="ROS 2 Jazzy" />
   <img src="https://img.shields.io/badge/ROS-Noetic-22314E?style=for-the-badge&logo=ros&logoColor=white" alt="ROS Noetic" />
@@ -87,13 +93,18 @@ Autonomous Driving
 
 ## 📊 GitHub Stats
 
-| Streak | Stats | Languages |
-| :---: | :---: | :---: |
-| <img src="https://github-readme-streak-stats.herokuapp.com/?user=zhangjszs&theme=tokyonight&hide_border=true" height="170" alt="Streak" /> | <img src="https://github-readme-stats-one-bice.vercel.app/api?username=zhangjszs&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" alt="Stats" /> | <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zhangjszs&theme=tokyonight" height="170" alt="Languages" /> |
-
-<p align="center">
+<div align="center">
+  <table>
+    <tr>
+      <td><img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=zhangjszs&theme=tokyonight&hide_border=true" alt="Streak" /></td>
+      <td><img height="170" src="https://github-readme-stats-one-bice.vercel.app/api?username=zhangjszs&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Stats" /></td>
+      <td><img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zhangjszs&theme=tokyonight" alt="Languages" /></td>
+    </tr>
+  </table>
+  <br/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zhangjszs&theme=tokyonight" width="100%" alt="GitHub Profile Details" />
-</p>
+</div>
+
 ---
 
 <p align="center">
